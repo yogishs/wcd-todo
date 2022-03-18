@@ -1,4 +1,6 @@
 ## Application overview
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyogishs%2Fwcd-todo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyogishs%2Fwcd-todo?ref=badge_shield)
+
 
 Here you will find the source code of the ToDo web application. 
 
@@ -57,3 +59,6 @@ Open Webcodesk in the browser on address: `localhost:7070`
 
 MIT
 Copyright (c) [Alex Pustovalov](https://github.com/ipselon)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyogishs%2Fwcd-todo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyogishs%2Fwcd-todo?ref=badge_large)
